@@ -1,7 +1,15 @@
+<<<<<<< HEAD
 this is sai krishna 
 
 hello to all
 
 Webapps assignment (main)
+=======
+this is sai krishna(alternative)
+
+hello to all
+
+Webapps assignment(alternative)
+>>>>>>> alternative
 
 thankyou (main)
